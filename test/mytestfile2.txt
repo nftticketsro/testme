@@ -1,0 +1,10 @@
+{
+  "website": "https://www.multiversxtoken.com",
+  "description": "MultiversX Token is a collection of 10.000 unique and randomly generated tokens.",
+  "social": {
+    "email": "mxt-token@multiversxtoken.com",
+    "blog": "https://www.multiversxtoken.com/MXT-token-blog",
+    "twitter": "https://twitter.com/MXT-token-twitter"
+  },
+  "status": "active"
+}
